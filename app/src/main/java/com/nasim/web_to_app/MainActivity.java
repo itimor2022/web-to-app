@@ -22,6 +22,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.airbnb.lottie.LottieAnimationView;
+import com.nasim.qmdp334.R;
 import com.nasim.zyjz123.controller.MyControl;
 import com.nasim.zyjz123.controller.MyMethods;
 import com.nasim.zyjz123.helper.MyHelper;
@@ -363,7 +364,7 @@ public class MainActivity extends AppCompatActivity implements NetworkStateRecei
             if (mBackPressed + TIME_INTERVAL > System.currentTimeMillis()) {
                 finishAndRemoveTask();
             } else {
-                Toast.makeText(getBaseContext(), "Press again to exit",
+                Toast.makeText(getBaseContext(), R.string.exit_app,
                         Toast.LENGTH_SHORT).show();
             }
 
