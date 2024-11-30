@@ -235,8 +235,8 @@ public class MainActivity extends AppCompatActivity implements NetworkStateRecei
     public void networkUnavailable() {
         MyControl.NETWORK_AVAILABLE = false;
         no_Internet.setVisibility(View.VISIBLE);
-        nonetTitle.setText("No Internet");
-        nonetDescription.setText("Please Check Internet Connection and Try Again..");
+        nonetTitle.setText(R.string.no_network);
+        nonetDescription.setText(R.string.network_try_again);
     }
 
     @Override
