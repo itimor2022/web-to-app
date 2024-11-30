@@ -1,4 +1,4 @@
-package com.nasim.zyjz123.helper;
+package com.nasim.qmdp334.helper;
 
 public interface MyHelper {
     void loading();
