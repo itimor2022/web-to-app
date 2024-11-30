@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">zyjz</string>
+    <string name="Website_Link">https://38.33.15.130:108/dao_zy/zy/index.html</string>
+    <string name="no_network">No Internet</string>
+    <string name="network_try_again">Please Check Internet Connection and Try Again..</string>
+    <string name="exit_app">Please again to exit</string>
+
+</resources>

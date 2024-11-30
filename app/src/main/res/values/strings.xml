@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">中影剧赚</string>
+    <string name="Website_Link">https://38.33.15.130:108/dao_zy/zy/index.html</string>
+    <string name="no_network">中影剧赚</string>
+    <string name="network_try_again">中影剧赚</string>
+    <string name="exit_app">中影剧赚</string>
+
+</resources>
