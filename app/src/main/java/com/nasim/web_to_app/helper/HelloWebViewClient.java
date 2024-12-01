@@ -1,4 +1,4 @@
-package com.nasim.zyjz123.helper;
+package com.nasim.web_to_app.helper;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -8,8 +8,8 @@ import android.net.Uri;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
 
-import com.nasim.zyjz123.controller.MyControl;
-import com.nasim.zyjz123.controller.MyMethods;
+import com.nasim.web_to_app.controller.MyControl;
+import com.nasim.web_to_app.controller.MyMethods;
 
 import java.net.URISyntaxException;
 

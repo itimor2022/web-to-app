@@ -1,4 +1,4 @@
-package com.nasim.zyjz123.controller;
+package com.nasim.web_to_app.controller;
 
 import android.app.Activity;
 import android.content.Context;
@@ -6,8 +6,8 @@ import android.content.IntentFilter;
 import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
 
-import com.nasim.zyjz123.R;
-import com.nasim.zyjz123.network.NetworkStateReceiver;
+import com.nasim.web_to_app.R;
+import com.nasim.web_to_app.network.NetworkStateReceiver;
 
 public class MyMethods {
 

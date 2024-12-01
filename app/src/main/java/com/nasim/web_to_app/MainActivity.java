@@ -1,4 +1,4 @@
-package com.nasim.zyjz123;
+package com.nasim.web_to_app;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.swiperefreshlayout.widget.SwipeRefreshLayout;
@@ -22,14 +22,13 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.airbnb.lottie.LottieAnimationView;
-import com.nasim.qmdp334.R;
-import com.nasim.zyjz123.controller.MyControl;
-import com.nasim.zyjz123.controller.MyMethods;
-import com.nasim.zyjz123.helper.MyHelper;
-import com.nasim.zyjz123.helper.ChromeClient;
-import com.nasim.zyjz123.helper.HelloWebViewClient;
-import com.nasim.zyjz123.helper.MyWebDownloader;
-import com.nasim.zyjz123.network.NetworkStateReceiver;
+import com.nasim.web_to_app.controller.MyControl;
+import com.nasim.web_to_app.controller.MyMethods;
+import com.nasim.web_to_app.helper.MyHelper;
+import com.nasim.web_to_app.helper.ChromeClient;
+import com.nasim.web_to_app.helper.HelloWebViewClient;
+import com.nasim.web_to_app.helper.MyWebDownloader;
+import com.nasim.web_to_app.network.NetworkStateReceiver;
 
 import java.io.ByteArrayOutputStream;
 

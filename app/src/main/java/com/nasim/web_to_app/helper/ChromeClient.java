@@ -1,4 +1,4 @@
-package com.nasim.zyjz123.helper;
+package com.nasim.web_to_app.helper;
 
 import static android.content.ContentValues.TAG;
 
@@ -23,7 +23,7 @@ import android.widget.FrameLayout;
 import androidx.core.app.ActivityCompat;
 import androidx.core.content.ContextCompat;
 
-import com.nasim.zyjz123.controller.MyControl;
+import com.nasim.web_to_app.controller.MyControl;
 
 import java.io.File;
 import java.io.IOException;
