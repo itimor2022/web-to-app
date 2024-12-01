@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.nasim.qmdp334'
+    namespace 'com.nasim.web_to_app'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.nasim.qmdp334"
+        applicationId "com.nasim.web_to_app"
         minSdk 21
         targetSdk 34
         versionCode 1

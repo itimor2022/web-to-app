@@ -1,4 +1,4 @@
-package com.nasim.qmdp334.helper;
+package com.nasim.web_to_app.helper;
 
 public interface MyHelper {
     void loading();
