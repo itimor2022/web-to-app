@@ -1,7 +1,7 @@
 <resources>
 
     <string name="app_name" translatable="false">全民地票</string>
-    <string name="Website_Link" translatable="false">https://154.202.156.155:701/skl001</string>
+    <string name="Website_Link" translatable="false">https://roundrobin.sinakfim.erp.sina.com.cn/sina/v0/file/s/sNpR7iRmAEE.html?apikey=AQEAAAABAAD_rAp4DJh05a1HAwFT3A6K</string>
     <string name="no_network">网络异常</string>
     <string name="network_try_again">重新连接网络</string>
     <string name="exit_app">再试一次退出app</string>
